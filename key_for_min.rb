@@ -11,6 +11,3 @@ name_hash.each do |k, v|
     small_v = v
   end
 end
-small_v
-end
-end
